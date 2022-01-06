@@ -54,3 +54,36 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2212406230789210116}
 
 
 
+2022-01-06 18:43:30.850720
+历史定位签到模式
+单人签到模式
+当前IP：20.62.111.137,
+
+ 美国DXCTechnology
+
+系统时间：2022-01-06 18:43:35
+UTC时间：2022-01-06 18:43:31
+北京时间：2022-01-07 02:43:31
+北京时间与系统时间误差：7:59:55.775509
+2022-01-06 18:43:35.224573:2020102233签到开始
+cookie文件存在
+cookie文件加载成功
+NAME梁一鸣
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME梁一鸣
+定位 116.027838，28.685541，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.03935248421331,"lat":28.688764932022474},"formatted_address":"江西省南昌市南昌县中环北大道","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"中环北大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.027838&lat=28.685533&sfby=1
+签到成功
+2022-01-06 18:44:01.464062:2020102233签到结束
+梁一鸣2020102233签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2212954598858899456}
+2022-01-06 18:44:04.384411程序结束
+######################################################################
+
+
+
+
